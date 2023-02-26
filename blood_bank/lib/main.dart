@@ -37,7 +37,7 @@ class life extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    var initialData2 = null;
+   // var initialData2 = null;
     return MaterialApp(
       themeMode: ThemeMode.system,
       theme: MyTheme.LightTheme(context),
